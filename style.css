@@ -1,0 +1,33 @@
+body {
+	background-color: #DDFFDD;
+}
+
+h1 {
+	font: bold 100px/1 cursive;
+	text-align: center;
+	color: purple;
+	background-color: white;
+	border-radius: 50%;
+	border-style:solid;
+	border-color: purple;
+	border-width: 10px 1em;
+}
+
+h2 {
+	font: bold 50px/1 cursive;
+	color: purple;
+}
+
+img {
+	border-radius: 89px;
+}
+
+a {
+	font-weight: bold;
+	color: red;
+}
+
+p{
+	color:#0F0F0F;
+	font-family:"Comic Sans MS", serif;
+}
