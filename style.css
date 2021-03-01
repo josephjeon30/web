@@ -41,4 +41,7 @@ p{
 	color:#0F0F0F;
 	text-align:center;
 	font-family:"Comic Sans MS", serif;
+	background-image: url(https://img.freepik.com/free-photo/white-marble-texture-background_42682-249.jpg?size=626&ext=jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
