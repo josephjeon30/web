@@ -17,6 +17,7 @@ h1 {
 h2 {
 	font: bold 50px/1 cursive;
 	color: purple;
+	text-align:center;
 }
 
 img {
@@ -30,5 +31,6 @@ a {
 
 p{
 	color:#0F0F0F;
+	text-align:center;
 	font-family:"Comic Sans MS", serif;
 }
