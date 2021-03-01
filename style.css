@@ -5,6 +5,8 @@
 
 body {
 	background-image: url(https://www.pixelstalk.net/wp-content/uploads/images2/Hot-Teal-Background.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	padding-bottom: 200px;
 }
 
@@ -27,7 +29,7 @@ h2 {
 
 img {
 	border-radius: 89px;
-	width: 100%;
+	width: 500px;
 }
 
 a {
