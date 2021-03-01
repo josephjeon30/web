@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color: #DDFFDD;
+	background-image: https://www.pixelstalk.net/wp-content/uploads/images2/Hot-Teal-Background.png;
 	padding-bottom: 200px;
 }
 
@@ -27,6 +27,7 @@ h2 {
 
 img {
 	border-radius: 89px;
+	width: 100%;
 }
 
 a {
