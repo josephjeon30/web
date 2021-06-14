@@ -1,0 +1,31 @@
+html {
+	background-image:url(pokeball.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+body {
+	background-color:rgba(255,255,255,0.8);
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size:30px;
+}
+
+p,ul{
+	font-size:19px;
+}
+
+.a {
+	text-align:center;
+	background-color:rgba(120,120,120,0.2);
+}
+
+.b {
+	text-align:center;
+}
